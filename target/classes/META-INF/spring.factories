@@ -1,0 +1,7 @@
+org.springframework.context.ApplicationListener=\
+org.springframework.boot.context.ApplicationPidFileWriter
+
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+online.sl.format.FormatterRegistrarAutoConfiguration,\
+online.sl.config.CommonsDataAutoConfiguration,\
+online.sl.config.JooqAutoConfiguration

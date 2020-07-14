@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "wx.api",
+      "type": "online.sl.config.WeChatConfig",
+      "sourceType": "online.sl.config.WeChatConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "wx.api.app-id",
+      "type": "java.lang.String",
+      "sourceType": "online.sl.config.WeChatConfig"
+    },
+    {
+      "name": "wx.api.secret",
+      "type": "java.lang.String",
+      "sourceType": "online.sl.config.WeChatConfig"
+    }
+  ],
+  "hints": []
+}
